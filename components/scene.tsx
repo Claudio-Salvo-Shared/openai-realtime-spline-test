@@ -128,7 +128,7 @@ const Scene: React.FC<SceneProps> = ({ toolCall }) => {
   return (
     <div className="size-full relative scene-bg">
       <Spline
-        scene="https://prod.spline.design/yH4ADQUBzWTJ2ITk/scene.splinecode"
+        scene="https://prod.spline.design/tdy-zYr097PmNggi/scene.splinecode"
         onLoad={onLoad}
       />
 
